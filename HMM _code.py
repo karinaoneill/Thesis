@@ -1,3 +1,4 @@
+#!/usr/bin/python
 # Natural Language Toolkit: Hidden Markov Model
 #
 # Copyright (C) 2001-2017 NLTK Project
